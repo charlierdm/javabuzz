@@ -22,5 +22,6 @@ class Javabuzz {
     if (this.isDivisibleByThree(number)) {
       return 'Java';
     }
+    return number
   }
 }
